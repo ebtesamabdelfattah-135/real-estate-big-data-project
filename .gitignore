@@ -1,0 +1,8 @@
+Transactions.csv
+archive.zip
+*.csv
+*.zip
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+.env
